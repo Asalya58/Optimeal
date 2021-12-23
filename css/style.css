@@ -14,6 +14,9 @@ body{
     padding-right: 0;
 }
 
+section img{
+    width:100%;
+}
 
 .header_nav-link{
     font-family: 'MPLUSRounded1c-Bold' ;
